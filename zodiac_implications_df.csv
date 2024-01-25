@@ -1,0 +1,311 @@
+,Intents,Extents,Support
+0,zodiac_sign_Aquarius,"topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1444
+1,zodiac_sign_Aries,"topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1564
+2,zodiac_sign_Cancer,"topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1693
+3,zodiac_sign_Capricorn,"topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1401
+4,zodiac_sign_Gemini,"topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1572
+5,zodiac_sign_Leo,"topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1589
+6,zodiac_sign_Libra,"topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1668
+7,zodiac_sign_Pisces,"topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1559
+8,zodiac_sign_Sagittarius,"topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1517
+9,zodiac_sign_Scorpio,"topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1608
+10,zodiac_sign_Taurus,"topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1617
+11,zodiac_sign_Virgo,"topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1751
+12,"topic_7,zodiac_sign_Aquarius","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1437
+13,"topic_7,zodiac_sign_Aries","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1557
+14,"topic_7,zodiac_sign_Cancer","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1689
+15,"topic_7,zodiac_sign_Capricorn","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1392
+16,"topic_7,zodiac_sign_Gemini","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1564
+17,"topic_7,zodiac_sign_Leo","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1585
+18,"topic_7,zodiac_sign_Libra","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1660
+19,"topic_7,zodiac_sign_Pisces","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1554
+20,"topic_7,zodiac_sign_Sagittarius","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1511
+21,"topic_7,zodiac_sign_Scorpio","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1601
+22,"topic_7,zodiac_sign_Taurus","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1604
+23,"topic_7,zodiac_sign_Virgo","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1741
+24,"zodiac_sign_Aquarius,pron_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1011
+25,"zodiac_sign_Aquarius,punct_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1279
+26,"zodiac_sign_Aquarius,punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1405
+27,"zodiac_sign_Aquarius,sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1340
+28,"zodiac_sign_Aries,pron_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1078
+29,"zodiac_sign_Aries,punct_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1375
+30,"zodiac_sign_Aries,punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1513
+31,"zodiac_sign_Aries,sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1463
+32,"zodiac_sign_Cancer,pron_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1195
+33,"zodiac_sign_Cancer,punct_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1489
+34,"zodiac_sign_Cancer,punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1646
+35,"zodiac_sign_Cancer,sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1580
+36,"zodiac_sign_Capricorn,punct_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1223
+37,"zodiac_sign_Capricorn,punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1361
+38,"zodiac_sign_Capricorn,sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1307
+39,"zodiac_sign_Gemini,pron_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1074
+40,"zodiac_sign_Gemini,punct_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1396
+41,"zodiac_sign_Gemini,punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1528
+42,"zodiac_sign_Gemini,sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1454
+43,"zodiac_sign_Leo,pron_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1099
+44,"zodiac_sign_Leo,punct_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1383
+45,"zodiac_sign_Leo,punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1542
+46,"zodiac_sign_Leo,sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1483
+47,"zodiac_sign_Libra,pron_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1134
+48,"zodiac_sign_Libra,punct_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1456
+49,"zodiac_sign_Libra,punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1626
+50,"zodiac_sign_Libra,sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1565
+51,"zodiac_sign_Pisces,pron_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1092
+52,"zodiac_sign_Pisces,punct_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1395
+53,"zodiac_sign_Pisces,punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1524
+54,"zodiac_sign_Pisces,sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1440
+55,"zodiac_sign_Sagittarius,pron_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1044
+56,"zodiac_sign_Sagittarius,punct_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1336
+57,"zodiac_sign_Sagittarius,punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1474
+58,"zodiac_sign_Sagittarius,sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1419
+59,"zodiac_sign_Scorpio,pron_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1096
+60,"zodiac_sign_Scorpio,punct_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1396
+61,"zodiac_sign_Scorpio,punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1564
+62,"zodiac_sign_Scorpio,sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1497
+63,"zodiac_sign_Taurus,pron_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1124
+64,"zodiac_sign_Taurus,punct_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1411
+65,"zodiac_sign_Taurus,punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1567
+66,"zodiac_sign_Taurus,sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1513
+67,"zodiac_sign_Virgo,sent_count_(-0.001, 15.0]","topic_7,topic_12,pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1000
+68,"zodiac_sign_Virgo,pron_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1206
+69,"zodiac_sign_Virgo,punct_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1526
+70,"zodiac_sign_Virgo,punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1700
+71,"zodiac_sign_Virgo,sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1634
+72,"topic_7,zodiac_sign_Aquarius,pron_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1005
+73,"topic_7,zodiac_sign_Aquarius,punct_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1273
+74,"topic_7,zodiac_sign_Aquarius,punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1398
+75,"topic_7,zodiac_sign_Aquarius,sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1334
+76,"topic_7,zodiac_sign_Aries,pron_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1071
+77,"topic_7,zodiac_sign_Aries,punct_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1368
+78,"topic_7,zodiac_sign_Aries,punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1506
+79,"topic_7,zodiac_sign_Aries,sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1457
+80,"topic_7,zodiac_sign_Cancer,pron_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1191
+81,"topic_7,zodiac_sign_Cancer,punct_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1485
+82,"topic_7,zodiac_sign_Cancer,punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1642
+83,"topic_7,zodiac_sign_Cancer,sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1576
+84,"topic_7,zodiac_sign_Capricorn,punct_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1217
+85,"topic_7,zodiac_sign_Capricorn,punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1353
+86,"topic_7,zodiac_sign_Capricorn,sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1298
+87,"topic_7,zodiac_sign_Gemini,pron_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1069
+88,"topic_7,zodiac_sign_Gemini,punct_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1388
+89,"topic_7,zodiac_sign_Gemini,punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1520
+90,"topic_7,zodiac_sign_Gemini,sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1447
+91,"topic_7,zodiac_sign_Leo,pron_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1095
+92,"topic_7,zodiac_sign_Leo,punct_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1379
+93,"topic_7,zodiac_sign_Leo,punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1538
+94,"topic_7,zodiac_sign_Leo,sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1479
+95,"topic_7,zodiac_sign_Libra,pron_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1126
+96,"topic_7,zodiac_sign_Libra,punct_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1449
+97,"topic_7,zodiac_sign_Libra,punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1618
+98,"topic_7,zodiac_sign_Libra,sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1557
+99,"topic_7,zodiac_sign_Pisces,pron_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1087
+100,"topic_7,zodiac_sign_Pisces,punct_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1390
+101,"topic_7,zodiac_sign_Pisces,punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1519
+102,"topic_7,zodiac_sign_Pisces,sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1436
+103,"topic_7,zodiac_sign_Sagittarius,pron_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1038
+104,"topic_7,zodiac_sign_Sagittarius,punct_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1330
+105,"topic_7,zodiac_sign_Sagittarius,punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1468
+106,"topic_7,zodiac_sign_Sagittarius,sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1415
+107,"topic_7,zodiac_sign_Scorpio,pron_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1092
+108,"topic_7,zodiac_sign_Scorpio,punct_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1393
+109,"topic_7,zodiac_sign_Scorpio,punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1558
+110,"topic_7,zodiac_sign_Scorpio,sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1491
+111,"topic_7,zodiac_sign_Taurus,pron_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1113
+112,"topic_7,zodiac_sign_Taurus,punct_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1399
+113,"topic_7,zodiac_sign_Taurus,punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1554
+114,"topic_7,zodiac_sign_Taurus,sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1503
+115,"topic_7,zodiac_sign_Virgo,pron_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1198
+116,"topic_7,zodiac_sign_Virgo,punct_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1520
+117,"topic_7,zodiac_sign_Virgo,punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1691
+118,"topic_7,zodiac_sign_Virgo,sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1625
+119,"zodiac_sign_Aquarius,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1277
+120,"zodiac_sign_Aquarius,punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1190
+121,"zodiac_sign_Aquarius,punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1304
+122,"zodiac_sign_Aries,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1018
+123,"zodiac_sign_Aries,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1052
+124,"zodiac_sign_Aries,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1368
+125,"zodiac_sign_Aries,punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1290
+126,"zodiac_sign_Aries,punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1417
+127,"zodiac_sign_Cancer,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1118
+128,"zodiac_sign_Cancer,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1170
+129,"zodiac_sign_Cancer,pron_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1121
+130,"zodiac_sign_Cancer,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1482
+131,"zodiac_sign_Cancer,punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1393
+132,"zodiac_sign_Cancer,punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1538
+133,"zodiac_sign_Capricorn,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1219
+134,"zodiac_sign_Capricorn,punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1135
+135,"zodiac_sign_Capricorn,punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1267
+136,"zodiac_sign_Gemini,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1018
+137,"zodiac_sign_Gemini,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1053
+138,"zodiac_sign_Gemini,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1393
+139,"zodiac_sign_Gemini,punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1288
+140,"zodiac_sign_Gemini,punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1414
+141,"zodiac_sign_Leo,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1049
+142,"zodiac_sign_Leo,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1080
+143,"zodiac_sign_Leo,pron_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1028
+144,"zodiac_sign_Leo,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1380
+145,"zodiac_sign_Leo,punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1292
+146,"zodiac_sign_Leo,punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1440
+147,"zodiac_sign_Libra,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1082
+148,"zodiac_sign_Libra,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1119
+149,"zodiac_sign_Libra,pron_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1061
+150,"zodiac_sign_Libra,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1453
+151,"zodiac_sign_Libra,punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1365
+152,"zodiac_sign_Libra,punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1527
+153,"zodiac_sign_Pisces,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1059
+154,"zodiac_sign_Pisces,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1081
+155,"zodiac_sign_Pisces,pron_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1005
+156,"zodiac_sign_Pisces,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1389
+157,"zodiac_sign_Pisces,punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1290
+158,"zodiac_sign_Pisces,punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1410
+159,"zodiac_sign_Sagittarius,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1029
+160,"zodiac_sign_Sagittarius,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1331
+161,"zodiac_sign_Sagittarius,punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1249
+162,"zodiac_sign_Sagittarius,punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1379
+163,"zodiac_sign_Scorpio,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1034
+164,"zodiac_sign_Scorpio,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1081
+165,"zodiac_sign_Scorpio,pron_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1029
+166,"zodiac_sign_Scorpio,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1392
+167,"zodiac_sign_Scorpio,punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1300
+168,"zodiac_sign_Scorpio,punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1458
+169,"zodiac_sign_Taurus,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1067
+170,"zodiac_sign_Taurus,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1100
+171,"zodiac_sign_Taurus,pron_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1058
+172,"zodiac_sign_Taurus,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1404
+173,"zodiac_sign_Taurus,punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1324
+174,"zodiac_sign_Taurus,punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1467
+175,"zodiac_sign_Virgo,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1145
+176,"zodiac_sign_Virgo,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1187
+177,"zodiac_sign_Virgo,pron_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1136
+178,"zodiac_sign_Virgo,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1521
+179,"zodiac_sign_Virgo,punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1432
+180,"zodiac_sign_Virgo,punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1590
+181,"topic_7,zodiac_sign_Aquarius,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1271
+182,"topic_7,zodiac_sign_Aquarius,punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1184
+183,"topic_7,zodiac_sign_Aquarius,punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1298
+184,"topic_7,zodiac_sign_Aries,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1011
+185,"topic_7,zodiac_sign_Aries,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1045
+186,"topic_7,zodiac_sign_Aries,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1361
+187,"topic_7,zodiac_sign_Aries,punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1284
+188,"topic_7,zodiac_sign_Aries,punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1411
+189,"topic_7,zodiac_sign_Cancer,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1114
+190,"topic_7,zodiac_sign_Cancer,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1166
+191,"topic_7,zodiac_sign_Cancer,pron_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1117
+192,"topic_7,zodiac_sign_Cancer,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1478
+193,"topic_7,zodiac_sign_Cancer,punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1389
+194,"topic_7,zodiac_sign_Cancer,punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1534
+195,"topic_7,zodiac_sign_Capricorn,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1213
+196,"topic_7,zodiac_sign_Capricorn,punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1129
+197,"topic_7,zodiac_sign_Capricorn,punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1259
+198,"topic_7,zodiac_sign_Gemini,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1013
+199,"topic_7,zodiac_sign_Gemini,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1048
+200,"topic_7,zodiac_sign_Gemini,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1385
+201,"topic_7,zodiac_sign_Gemini,punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1281
+202,"topic_7,zodiac_sign_Gemini,punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1407
+203,"topic_7,zodiac_sign_Leo,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1045
+204,"topic_7,zodiac_sign_Leo,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1076
+205,"topic_7,zodiac_sign_Leo,pron_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1024
+206,"topic_7,zodiac_sign_Leo,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1376
+207,"topic_7,zodiac_sign_Leo,punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1288
+208,"topic_7,zodiac_sign_Leo,punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1436
+209,"topic_7,zodiac_sign_Libra,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1075
+210,"topic_7,zodiac_sign_Libra,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1111
+211,"topic_7,zodiac_sign_Libra,pron_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1053
+212,"topic_7,zodiac_sign_Libra,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1446
+213,"topic_7,zodiac_sign_Libra,punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1358
+214,"topic_7,zodiac_sign_Libra,punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1519
+215,"topic_7,zodiac_sign_Pisces,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1054
+216,"topic_7,zodiac_sign_Pisces,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1076
+217,"topic_7,zodiac_sign_Pisces,pron_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1001
+218,"topic_7,zodiac_sign_Pisces,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1384
+219,"topic_7,zodiac_sign_Pisces,punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1286
+220,"topic_7,zodiac_sign_Pisces,punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1406
+221,"topic_7,zodiac_sign_Sagittarius,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1023
+222,"topic_7,zodiac_sign_Sagittarius,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1325
+223,"topic_7,zodiac_sign_Sagittarius,punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1245
+224,"topic_7,zodiac_sign_Sagittarius,punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1375
+225,"topic_7,zodiac_sign_Scorpio,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1032
+226,"topic_7,zodiac_sign_Scorpio,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1078
+227,"topic_7,zodiac_sign_Scorpio,pron_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1026
+228,"topic_7,zodiac_sign_Scorpio,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1389
+229,"topic_7,zodiac_sign_Scorpio,punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1298
+230,"topic_7,zodiac_sign_Scorpio,punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1453
+231,"topic_7,zodiac_sign_Taurus,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1057
+232,"topic_7,zodiac_sign_Taurus,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1089
+233,"topic_7,zodiac_sign_Taurus,pron_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1049
+234,"topic_7,zodiac_sign_Taurus,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1392
+235,"topic_7,zodiac_sign_Taurus,punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1314
+236,"topic_7,zodiac_sign_Taurus,punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1457
+237,"topic_7,zodiac_sign_Virgo,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1139
+238,"topic_7,zodiac_sign_Virgo,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1179
+239,"topic_7,zodiac_sign_Virgo,pron_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1128
+240,"topic_7,zodiac_sign_Virgo,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1515
+241,"topic_7,zodiac_sign_Virgo,punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1426
+242,"topic_7,zodiac_sign_Virgo,punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1581
+243,"zodiac_sign_Aquarius,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1188
+244,"zodiac_sign_Aries,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1012
+245,"zodiac_sign_Aries,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1283
+246,"zodiac_sign_Cancer,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1111
+247,"zodiac_sign_Cancer,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1049
+248,"zodiac_sign_Cancer,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1099
+249,"zodiac_sign_Cancer,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1387
+250,"zodiac_sign_Capricorn,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1131
+251,"zodiac_sign_Gemini,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1015
+252,"zodiac_sign_Gemini,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1285
+253,"zodiac_sign_Leo,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1047
+254,"zodiac_sign_Leo,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1012
+255,"zodiac_sign_Leo,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1289
+256,"zodiac_sign_Libra,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1079
+257,"zodiac_sign_Libra,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1013
+258,"zodiac_sign_Libra,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1048
+259,"zodiac_sign_Libra,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1364
+260,"zodiac_sign_Pisces,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1054
+261,"zodiac_sign_Pisces,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1285
+262,"zodiac_sign_Sagittarius,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1244
+263,"zodiac_sign_Scorpio,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1030
+264,"zodiac_sign_Scorpio,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1015
+265,"zodiac_sign_Scorpio,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1296
+266,"zodiac_sign_Taurus,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1060
+267,"zodiac_sign_Taurus,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1005
+268,"zodiac_sign_Taurus,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1036
+269,"zodiac_sign_Taurus,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1317
+270,"zodiac_sign_Virgo,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1140
+271,"zodiac_sign_Virgo,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1080
+272,"zodiac_sign_Virgo,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1119
+273,"zodiac_sign_Virgo,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1427
+274,"topic_7,zodiac_sign_Aquarius,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1182
+275,"topic_7,zodiac_sign_Aries,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1005
+276,"topic_7,zodiac_sign_Aries,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1277
+277,"topic_7,zodiac_sign_Cancer,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1107
+278,"topic_7,zodiac_sign_Cancer,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1045
+279,"topic_7,zodiac_sign_Cancer,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1095
+280,"topic_7,zodiac_sign_Cancer,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1383
+281,"topic_7,zodiac_sign_Capricorn,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1125
+282,"topic_7,zodiac_sign_Gemini,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1010
+283,"topic_7,zodiac_sign_Gemini,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1278
+284,"topic_7,zodiac_sign_Leo,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1043
+285,"topic_7,zodiac_sign_Leo,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1008
+286,"topic_7,zodiac_sign_Leo,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1285
+287,"topic_7,zodiac_sign_Libra,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1072
+288,"topic_7,zodiac_sign_Libra,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1006
+289,"topic_7,zodiac_sign_Libra,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1040
+290,"topic_7,zodiac_sign_Libra,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1357
+291,"topic_7,zodiac_sign_Pisces,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1049
+292,"topic_7,zodiac_sign_Pisces,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1281
+293,"topic_7,zodiac_sign_Sagittarius,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1240
+294,"topic_7,zodiac_sign_Scorpio,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1028
+295,"topic_7,zodiac_sign_Scorpio,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1013
+296,"topic_7,zodiac_sign_Scorpio,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1294
+297,"topic_7,zodiac_sign_Taurus,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1050
+298,"topic_7,zodiac_sign_Taurus,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1027
+299,"topic_7,zodiac_sign_Taurus,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1307
+300,"topic_7,zodiac_sign_Virgo,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1134
+301,"topic_7,zodiac_sign_Virgo,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1074
+302,"topic_7,zodiac_sign_Virgo,pron_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05],punct_per_sents_(-0.001, 1.0]",1111
+303,"topic_7,zodiac_sign_Virgo,punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_sents_(-0.001, 1.0],pron_per_tokens_(0.025, 0.05]",1421
+304,"zodiac_sign_Cancer,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1043
+305,"zodiac_sign_Libra,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1012
+306,"zodiac_sign_Virgo,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_7,topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1075
+307,"topic_7,zodiac_sign_Cancer,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1039
+308,"topic_7,zodiac_sign_Libra,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1005
+309,"topic_7,zodiac_sign_Virgo,pron_per_sents_(-0.001, 1.0],punct_per_sents_(-0.001, 1.0],punct_per_tokens_(-0.001, 0.1],sarcasm_(-0.001, 0.2]","topic_12,sent_count_(-0.001, 15.0],pron_per_tokens_(0.025, 0.05]",1069
