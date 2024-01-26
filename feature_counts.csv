@@ -1,0 +1,135 @@
+,0
+Unnamed: 0,180167653
+author_id,65183371872
+occupation_Accounting,100
+occupation_Advertising,140
+occupation_Agriculture,36
+occupation_Architecture,68
+occupation_Arts,711
+occupation_Automotive,53
+occupation_Banking,106
+occupation_Biotech,56
+occupation_BusinessServices,160
+occupation_Chemicals,60
+occupation_Communications-Media,473
+occupation_Construction,55
+occupation_Consulting,187
+occupation_Education,964
+occupation_Engineering,305
+occupation_Environment,28
+occupation_Fashion,97
+occupation_Government,230
+occupation_HumanResources,90
+occupation_Internet,391
+occupation_InvestmentBanking,33
+occupation_Law,192
+occupation_LawEnforcement-Security,53
+occupation_Manufacturing,85
+occupation_Maritime,16
+occupation_Marketing,178
+occupation_Military,114
+occupation_Museums-Libraries,53
+occupation_Non-Profit,366
+occupation_Publishing,145
+occupation_RealEstate,54
+occupation_Religion,137
+occupation_Science,179
+occupation_Sports-Recreation,86
+occupation_Student,5043
+occupation_Technology,928
+occupation_Telecommunications,118
+occupation_Tourism,91
+occupation_Transportation,90
+occupation_indUnk,6712
+topic_0,1088
+topic_1,295
+topic_2,551
+topic_3,184
+topic_4,168
+topic_5,11
+topic_6,971
+topic_7,18895
+topic_8,763
+topic_9,1011
+topic_10,318
+topic_11,949
+topic_12,6938
+topic_13,147
+topic_14,2472
+topic_15,13
+topic_16,1961
+topic_17,188
+topic_18,363
+topic_19,730
+topic_20,416
+topic_21,1722
+topic_22,202
+topic_23,315
+topic_24,461
+topic_25,65
+topic_26,380
+topic_27,102
+topic_28,417
+topic_29,359
+zodiac_sign_Aquarius,1444
+zodiac_sign_Aries,1564
+zodiac_sign_Cancer,1693
+zodiac_sign_Capricorn,1401
+zodiac_sign_Gemini,1572
+zodiac_sign_Leo,1589
+zodiac_sign_Libra,1668
+zodiac_sign_Pisces,1559
+zodiac_sign_Sagittarius,1517
+zodiac_sign_Scorpio,1608
+zodiac_sign_Taurus,1617
+zodiac_sign_Virgo,1751
+"token_count_(-0.001, 150.0]",4060
+"token_count_(150.0, 300.0]",7497
+"token_count_(300.0, 450.0]",3764
+"token_count_(450.0, 600.0]",1754
+"token_count_(600.0, 1000.0]",1377
+"token_count_(1000.0, 1500.0]",345
+"token_count_(1500.0, 29822.0]",186
+"sent_count_(-0.001, 15.0]",10540
+"sent_count_(15.0, 30.0]",5969
+"sent_count_(30.0, 45.0]",1549
+"sent_count_(45.0, 60.0]",498
+"sent_count_(60.0, 100.0]",291
+"sent_count_(100.0, 150.0]",83
+"sent_count_(150.0, 2086.0]",53
+"pron_per_sents_(-0.001, 1.0]",13107
+"pron_per_sents_(1.0, 2.0]",4150
+"pron_per_sents_(2.0, 3.0]",720
+"pron_per_sents_(3.0, 4.0]",355
+"pron_per_sents_(4.0, 5.0]",198
+"pron_per_sents_(5.0, 10.0]",340
+"pron_per_sents_(10.0, 137.0]",113
+"pron_per_tokens_(-0.001, 0.025]",3457
+"pron_per_tokens_(0.025, 0.05]",8742
+"pron_per_tokens_(0.05, 0.075]",5793
+"pron_per_tokens_(0.075, 0.1]",901
+"pron_per_tokens_(0.1, 0.188]",90
+"punct_per_sents_(-0.001, 1.0]",16665
+"punct_per_sents_(1.0, 2.0]",1216
+"punct_per_sents_(2.0, 3.0]",366
+"punct_per_sents_(3.0, 5.0]",310
+"punct_per_sents_(5.0, 10.0]",252
+"punct_per_sents_(10.0, 50.167]",174
+"punct_per_tokens_(-0.001, 0.1]",18450
+"punct_per_tokens_(0.1, 0.2]",507
+"punct_per_tokens_(0.2, 4.311]",26
+"sentiment_[0.0, 0.2)",2258
+"sentiment_[0.2, 0.4)",1702
+"sentiment_[0.4, 0.6)",4876
+"sentiment_[0.6, 0.8)",5978
+"sentiment_[0.8, 1.0)",2109
+"irony_(-0.001, 0.2]",5750
+"irony_(0.2, 0.4]",5635
+"irony_(0.4, 0.6]",4641
+"irony_(0.6, 0.8]",1970
+"irony_(0.8, 1.0]",987
+"sarcasm_(-0.001, 0.2]",17695
+"sarcasm_(0.2, 0.4]",993
+"sarcasm_(0.4, 0.6]",208
+"sarcasm_(0.6, 0.8]",40
+"sarcasm_(0.8, 1.0]",47
